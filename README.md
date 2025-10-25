@@ -1,5 +1,4 @@
 # Tutorial 4 - Mark Johnson 
-# Tutorial 4 - Mark Johnson
 
 ## Purpose
 This repository was created for my Git and GitHub tutorial assignment.  
