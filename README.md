@@ -15,5 +15,4 @@ It demonstrates how to use Git for version control and GitHub for collaboration.
 
 ## Collaborators
 - Mark Johnson
-- Keirah
-  
+- Keirah Jacobs
