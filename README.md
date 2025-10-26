@@ -16,6 +16,4 @@ It demonstrates how to use Git for version control and GitHub for collaboration.
 ## Collaborators
 - Mark Johnson
 - Keirah
-
-## Repository Link
-[Public GitHub Repository](https://github.com/your-username/tutorial-4-mark)
+  
